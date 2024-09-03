@@ -151,27 +151,6 @@ Connection Issues: Check your internet connection and verify that the Giphy API 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-### Steps to Add This to Your `README.md`
-
-1. **Open or Create the `README.md`:**
-   - Use a text editor to open or create the `README.md` file in your project directory.
-
-2. **Copy and Paste the Content:**
-   - Copy the provided `README.md` content and paste it into your file.
-
-3. **Save the File:**
-   - Save your changes.
-
-4. **Verify the Information:**
-   - Ensure that all URLs, code snippets, and instructions are accurate and reflect your project’s specifics.
-
-5. **Commit and Push (if using Git):**
-   - If you're using Git, add, commit, and push the changes to your repository:
-     ```bash
-     git add README.md
-     git commit -m "Add detailed documentation to README.md"
-     git push
-     ```
 
 If you have specific questions or need further adjustments, let me know!
 
